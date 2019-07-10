@@ -4,7 +4,8 @@ function createMyObject() {
         foo:'bar',
         answerToUniverse: 42,
         'olly olly': 'oxen free',
-        sayHello(){
+        // this is just to add this branch in!
+        sayHello() {
             return 'hello';
         },
     };
